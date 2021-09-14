@@ -1,7 +1,7 @@
 %convert a RGB image to a sound clip
 %using the format from the golden record
 
-I = imread('C:\Users\Bill\Downloads\Telegram Desktop\IMG_2576.jpg');
+I = imread('some image path here');
 %read in the original image
 
 
